@@ -18,7 +18,7 @@
 
 ### 👋 Sobre mí
 
-Soy **Ingeniero Full Stack** con **6+ años de experiencia** construyendo aplicaciones web robustas y escalables. Me especializo en **backend con PHP / Laravel**, complementado con **Node.js** y **Python**, y en frontend trabajo principalmente con **Vue / Nuxt**, además de contar con experiencia sólida en **React / Next.js**.
+Soy **Ingeniero de Software** con **6+ años de experiencia** construyendo aplicaciones web robustas y escalables. Me especializo en **backend con PHP / Laravel**, complementado con **Node.js** y **Python**, y en frontend trabajo principalmente con **Vue / Nuxt**, además de contar con experiencia sólida en **React / Next.js**.
 
 También diseño e implemento **arquitecturas cloud en AWS**, enfocándome en soluciones que sean seguras, escalables y fáciles de mantener.
 
