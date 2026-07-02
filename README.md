@@ -65,23 +65,16 @@ También diseño e implemento **arquitecturas cloud en AWS**, enfocándome en so
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 **📍 GPSat**
 Plataforma de **tracking GPS en tiempo real** para monitoreo y control de flotas/unidades, con visualización en mapa y reportes de recorrido.
 `Laravel` `React` `AWS` `Geolocalización`
 
 </td>
-<td width="50%">
-
-**📊 Sistema Contable PYME**
-Sistema de **gestión contable** orientado a pequeñas y medianas empresas: control de ingresos, egresos y reportes financieros.
-`Laravel` `MySQL` `Vue` `AWS`
-
-</td>
 </tr>
 <tr>
-  <td colpan="2" width="50%">
+  <td width="100%">
 
 **💌 Te Invito A**
 Plataforma de **invitaciones virtuales personalizadas**, permitiendo crear, compartir y gestionar invitaciones digitales para eventos.
@@ -91,7 +84,7 @@ Plataforma de **invitaciones virtuales personalizadas**, permitiendo crear, comp
 </tr>
 </table>
 
-> 💡 *¿Quieres ver el código o una demo de alguno de estos proyectos? Escríbeme y con gusto te comparto más detalles.*
+> 💡 *¿Quieres ver una demo de alguno de estos proyectos? Escríbeme y con gusto te comparto más detalles.*
 
 ---
 
