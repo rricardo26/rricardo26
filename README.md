@@ -106,21 +106,6 @@ Sistema de gestión empresarial para administración de procesos y recursos inte
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rricardo26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rricardo26&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rricardo26&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 ¿Trabajamos juntos?
