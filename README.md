@@ -74,25 +74,18 @@ Plataforma de **tracking GPS en tiempo real** para monitoreo y control de flotas
 </td>
 <td width="50%">
 
-**💌 Te Invito A**
-Plataforma de **invitaciones virtuales personalizadas**, permitiendo crear, compartir y gestionar invitaciones digitales para eventos.
-`Laravel` `Nuxt` `Diseño personalizado` `AWS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 **📊 Sistema Contable PYME**
 Sistema de **gestión contable** orientado a pequeñas y medianas empresas: control de ingresos, egresos y reportes financieros.
 `Laravel` `MySQL` `Vue` `AWS`
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+  <td colpan="2" width="50%">
 
-**🏢 Qualus Manager**
-Sistema de gestión empresarial para administración de procesos y recursos internos.
-`Laravel` `React/Next` `AWS`
+**💌 Te Invito A**
+Plataforma de **invitaciones virtuales personalizadas**, permitiendo crear, compartir y gestionar invitaciones digitales para eventos.
+`Laravel` `Nuxt` `Diseño personalizado` `AWS`
 
 </td>
 </tr>
