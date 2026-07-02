@@ -1,16 +1,135 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rricardo26/rricardo26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ricardo%20Alama%20Ventocilla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architecture%20AWS&descAlignY=58&descSize=18" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Laravel+%2F+PHP+Specialist;Full+Stack+%7C+Vue+%2C+Nuxt+%2C+React+%2C+Next;Cloud+Architecture+en+AWS;6%2B+a%C3%B1os+construyendo+soluciones+escalables" />
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Email-rricardo.av%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rricardo.av@gmail.com)
+![Location](https://img.shields.io/badge/Lima-Per%C3%BA-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Disponibilidad](https://img.shields.io/badge/Disponible-Freelance-brightgreen?style=for-the-badge&logo=upwork&logoColor=white)
+
+</div>
+
+---
+
+### 👋 Sobre mí
+
+Soy **Ingeniero Full Stack** con **6+ años de experiencia** construyendo aplicaciones web robustas y escalables. Me especializo en **backend con PHP / Laravel**, complementado con **Node.js** y **Python**, y en frontend trabajo principalmente con **Vue / Nuxt**, además de contar con experiencia sólida en **React / Next.js**.
+
+También diseño e implemento **arquitecturas cloud en AWS**, enfocándome en soluciones que sean seguras, escalables y fáciles de mantener.
+
+- 🔭 Actualmente construyendo soluciones a medida para clientes en distintas industrias (logística, eventos, gestión contable).
+- 🌱 Profundizando en arquitecturas cloud-native y buenas prácticas de DevOps sobre AWS.
+- 💼 **Disponible para proyectos freelance** — si tienes una idea, hablemos.
+- 📫 Contáctame en **rricardo.av@gmail.com**
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<div align="center">
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Bases de Datos**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%">
+
+**📍 GPSat**
+Plataforma de **tracking GPS en tiempo real** para monitoreo y control de flotas/unidades, con visualización en mapa y reportes de recorrido.
+`Laravel` `Vue` `AWS` `Geolocalización`
+
+</td>
+<td width="50%">
+
+**💌 Te Invito A**
+Plataforma de **invitaciones virtuales personalizadas**, permitiendo crear, compartir y gestionar invitaciones digitales para eventos.
+`Laravel` `Nuxt` `Diseño personalizado`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📊 Sistema Contable PYME**
+Sistema de **gestión contable** orientado a pequeñas y medianas empresas: control de ingresos, egresos y reportes financieros.
+`Laravel` `MySQL` `Vue`
+
+</td>
+<td width="50%">
+
+**🏢 Qualus Manager**
+Sistema de gestión empresarial para administración de procesos y recursos internos.
+`Laravel` `React/Next` `AWS`
+
+</td>
+</tr>
+</table>
+
+> 💡 *¿Quieres ver el código o una demo de alguno de estos proyectos? Escríbeme y con gusto te comparto más detalles.*
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rricardo26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rricardo26&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rricardo26&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 ¿Trabajamos juntos?
+
+Estoy disponible para **proyectos freelance**, colaboraciones o posiciones full time.
+Si buscas a alguien que convierta una idea en un producto funcional y escalable, hablemos.
+
+[![Gmail](https://img.shields.io/badge/-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rricardo.av@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
+
+</div>
